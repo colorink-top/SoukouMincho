@@ -1,0 +1,21 @@
+{
+  "name": "SoukouMincho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cn-font-split  -i=./SoukouMincho.ttf  -o=./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorink-top/SoukouMincho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colorink-top/SoukouMincho/issues"
+  },
+  "homepage": "https://github.com/colorink-top/SoukouMincho#readme"
+}
